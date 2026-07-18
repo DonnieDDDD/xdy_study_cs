@@ -6,9 +6,8 @@ __pycache__/
 # Cloned repo with its own git history — see conversation
 nanoGPT/
 
-# Datasets and trained model weights (regenerable, not source)
+# Datasets (regenerable, not source)
 data/
-models/*.pth
 
 # Contains a certificate file
 dockerfiles/
